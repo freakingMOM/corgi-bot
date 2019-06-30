@@ -1,2 +1,0 @@
-# corgi-bot
-hehe bark~
